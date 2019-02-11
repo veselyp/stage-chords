@@ -6,5 +6,5 @@
 
 class BaseConfig(object):
     DEBUG = True
-    SQLALCHEMY_DATABASE_URI = 'sqlite:///survey.db'
+    SQLALCHEMY_DATABASE_URI = 'sqlite:///stage-chords.db'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
